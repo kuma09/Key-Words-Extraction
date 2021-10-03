@@ -1,3 +1,4 @@
 // IDE ANACONDAT
 // UTF -8
 // corpus n'exist pas 
+// python version 3.6
